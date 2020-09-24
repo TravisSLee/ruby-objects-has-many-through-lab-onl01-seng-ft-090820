@@ -1,3 +1,3 @@
-def Doctor
+class Doctor
   
 end
